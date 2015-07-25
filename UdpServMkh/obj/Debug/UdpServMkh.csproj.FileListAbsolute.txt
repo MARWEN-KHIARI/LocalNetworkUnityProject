@@ -1,0 +1,5 @@
+c:\users\maroien\documents\visual studio 2010\Projects\UdpServMkh\UdpServMkh\bin\Debug\UdpServMkh.dll
+c:\users\maroien\documents\visual studio 2010\Projects\UdpServMkh\UdpServMkh\bin\Debug\UdpServMkh.pdb
+c:\users\maroien\documents\visual studio 2010\Projects\UdpServMkh\UdpServMkh\obj\Debug\ResolveAssemblyReference.cache
+c:\users\maroien\documents\visual studio 2010\Projects\UdpServMkh\UdpServMkh\obj\Debug\UdpServMkh.dll
+c:\users\maroien\documents\visual studio 2010\Projects\UdpServMkh\UdpServMkh\obj\Debug\UdpServMkh.pdb
